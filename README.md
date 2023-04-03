@@ -3,6 +3,8 @@
 
 CHỦ ĐỀ: XÂY DỰNG WEBSITE KINH DOANH THIẾT BỊ CƠ KHÍ
 
+LINK quản lý jira: https://chickenmeen.atlassian.net/jira/software/projects/CDCNPM/boards/2
+
 THÀNH VIÊN NHÓM:
 
 1.TRẦN THỊ MAI TIÊN
